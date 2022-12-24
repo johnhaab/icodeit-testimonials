@@ -1,4 +1,5 @@
 Preview.
+
 ![](/assets/images/screenshot.png)
 
 - Live Site URL: [Click me!](https://johnhaab.github.io/Task-Manager)
