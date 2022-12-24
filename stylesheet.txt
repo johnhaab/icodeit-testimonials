@@ -1,0 +1,5 @@
+background color -- #F5F8FF
+
+card bg -- #FFF
+
+soft grey -- c
